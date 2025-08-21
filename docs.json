@@ -57,15 +57,6 @@
             ]
           },
           {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          },
-          {
             "group": "Jobnimbus Public API",
             "openapi": {
               "source": "/api-reference/public-api.openapi.json"
